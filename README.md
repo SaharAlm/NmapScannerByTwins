@@ -9,5 +9,6 @@ To use this tool is very easy!
 2) Choose Scanning method
 ![](screenshots/end.png)
 3) And thats it!
+![](screenshots/ended.png)
 
 
